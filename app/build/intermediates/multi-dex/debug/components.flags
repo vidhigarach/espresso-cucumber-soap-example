@@ -1,0 +1,85 @@
+-injars /Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
+-outjars /Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/vidhigarach/Documents/android/sdk/build-tools/21.1.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/multi-dex/debug/components.flags
+
+
+-keep class com.embeddedlog.LightUpDroid.provider.ClockProvider {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.DeskClock {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.SettingsActivity {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.worldclock.CitiesActivity {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.alarms.AlarmActivity {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.ScreensaverActivity {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.alarms.AlarmStateManager {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.alarms.AlarmService {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.HandleApiCalls {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.AlarmInitReceiver {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.Screensaver {
+    <init>();
+}
+
+-keep class com.embeddedlog.LightUpDroid.ScreensaverSettingsActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

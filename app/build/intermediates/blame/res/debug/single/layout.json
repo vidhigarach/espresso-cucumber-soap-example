@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/stopwatch_fragment.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/stopwatch_fragment.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/stopwatch_notif_expanded.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/stopwatch_notif_expanded.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/timer_alert_full_screen.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/timer_alert_full_screen.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/city_list_item.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/city_list_item.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/alarm_clock.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/alarm_clock.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/time_picker_dialog.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/layout/time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/time_header_label.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/layout/time_header_label.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/timer_h_mm_ss_view.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/timer_h_mm_ss_view.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/alarm_alert.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/alarm_alert.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/glow_pad_view.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/glow_pad_view.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/clock_fragment.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/clock_fragment.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/set_alarm_action_bar.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/set_alarm_action_bar.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/alarm_alert_fullscreen.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/alarm_alert_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/popup_window_item.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/popup_window_item.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/timer_fragment.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/timer_fragment.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/lap_view.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/lap_view.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/blank_header_view.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/blank_header_view.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/alarm_label.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/alarm_label.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/date_picker_dialog.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/layout/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/desk_clock.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/desk_clock.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/day_button.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/day_button.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/city_list_header.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/city_list_header.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/world_clock_remote_list_item.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/world_clock_remote_list_item.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/alarm_time.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/alarm_time.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/date_picker_done_button.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/layout/date_picker_done_button.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/analog_appwidget.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/analog_appwidget.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/actionable_toast_row.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/actionable_toast_row.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/set_alarm.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/set_alarm.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/label_dialog.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/label_dialog.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/main_clock_frame.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/main_clock_frame.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/digital_widget_time.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/digital_widget_time.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/snooze_length_picker.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/snooze_length_picker.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/cities_activity.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/cities_activity.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/date_picker_view_animator.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/layout/date_picker_view_animator.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/world_clock_item.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/world_clock_item.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/item_background.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/item_background.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/timer_list_item.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/timer_list_item.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/world_clock_label.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/world_clock_label.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/context_menu_header.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/context_menu_header.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/year_label_text_view.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/layout/year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/three_keys_view.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/three_keys_view.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/alarm_timeline_layout.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/alarm_timeline_layout.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/world_clock_list_item.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/world_clock_list_item.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/stopwatch_notif_collapsed.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/stopwatch_notif_collapsed.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/time_setup_view.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/time_setup_view.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/digital_appwidget.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/digital_appwidget.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/blank_footer_view.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/blank_footer_view.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/date_picker_selected_date.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/layout/date_picker_selected_date.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/desk_clock_saver.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout/desk_clock_saver.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout/date_picker_header_view.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/layout/date_picker_header_view.xml"
+    }
+]

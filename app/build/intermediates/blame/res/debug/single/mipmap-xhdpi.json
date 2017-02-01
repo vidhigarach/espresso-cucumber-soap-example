@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_alarmclock.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/mipmap-xhdpi/ic_launcher_alarmclock.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_widget_analog_clock.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/mipmap-xhdpi/ic_widget_analog_clock.png"
+    }
+]

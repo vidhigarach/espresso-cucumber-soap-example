@@ -1,0 +1,17 @@
+@Test
+Feature: Test
+
+  @Test-1
+  Scenario: User verify the page
+    Given the application is open
+    Then user can view the current time
+    And user can view the current day
+    And user can view the current date
+
+  @Test-2
+  Scenario: User can set the Alaram
+    Given user is on the home page
+    Then user can click on the Alarm symbol
+    And user clicks on '+' sign
+    Then user sets time to 6:15 AM
+    Then user clicks on Done

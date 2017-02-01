@@ -1,0 +1,12 @@
+-keep class com.embeddedlog.LightUpDroid.provider.ClockProvider { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.DeskClock { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.SettingsActivity { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.worldclock.CitiesActivity { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.alarms.AlarmActivity { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.ScreensaverActivity { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.alarms.AlarmStateManager { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.alarms.AlarmService { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.HandleApiCalls { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.AlarmInitReceiver { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.Screensaver { <init>(); }
+-keep class com.embeddedlog.LightUpDroid.ScreensaverSettingsActivity { <init>(); }

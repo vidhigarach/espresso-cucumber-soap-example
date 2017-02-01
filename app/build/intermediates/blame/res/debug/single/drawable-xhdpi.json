@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_pressed_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_pressed_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_globe.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_globe.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_reset_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_reset_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lapalternate_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lapalternate_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/fastscroll_label_left_holo_dark.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/fastscroll_label_left_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_discard_holo_dark.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_discard_holo_dark.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/fastscroll_label_right_holo_dark.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/fastscroll_label_right_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_alarm_selected.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_alarm_selected.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_share_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_share_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lap_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lap_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_strip_trans_right_selected.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_strip_trans_right_selected.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/stat_notify_stopwatch.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/stat_notify_stopwatch.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_selector_background_pressed.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_setalarm_holo_dark.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_setalarm_holo_dark.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_start_disabled.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_start_disabled.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_done_holo_dark.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_menu_done_holo_dark.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_alarm_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_alarm_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tab_stopwatch_activated.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_tab_stopwatch_activated.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_label_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_label_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lockscreen_handle_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lockscreen_handle_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_disabled_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_disabled_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/toggle_underline_activated.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/toggle_underline_activated.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lapalternate_disabled.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lapalternate_disabled.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_plusone_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_plusone_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_add_alarm_selected.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_add_alarm_selected.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lockscreen_alarm.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lockscreen_alarm.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notify_stop.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_notify_stop.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_strip_trans_middle_selected.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_strip_trans_middle_selected.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_focused_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_focused_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_noalarms.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_noalarms.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lockscreen_wakeup_activated.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lockscreen_wakeup_activated.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lap_disabled.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lap_disabled.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_alarm_focused.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_alarm_focused.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/clock_analog_hour.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/clock_analog_hour.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_disabled_focused_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_disabled_focused_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/clock_analog_second.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/clock_analog_second.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lap_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lap_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notify_start.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_notify_start.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_disabled_focused_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_disabled_focused_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_disabled_focused_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_disabled_focused_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tab_timer_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_tab_timer_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/clock_analog_minute.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/clock_analog_minute.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_disabled_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_disabled_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/checkbox_radio_xxhdpi_red_14_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/checkbox_radio_xxhdpi_red_14_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_diamond_white.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_diamond_white.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_label_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_label_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_pressed_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_pressed_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lock_idle_alarm.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lock_idle_alarm.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/panel_undo_holo.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/panel_undo_holo.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_alarms.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_menu_alarms.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_delete_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_delete_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_backspace_disabled.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_backspace_disabled.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_clock_dial.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/appwidget_clock_dial.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/alarm_alert_fullscreen_bg.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/alarm_alert_fullscreen_bg.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_strip_trans_left_selected.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_strip_trans_left_selected.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_indicator_on.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_indicator_on.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_strip_trans_left_normal.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_strip_trans_left_normal.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notify_lap.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_notify_lap.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lockscreen_snooze_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lockscreen_snooze_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/list_activated_holo.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/list_activated_holo.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_focused_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_focused_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_backspace_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_backspace_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_alarm.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_alarm.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/clock_analog_dial.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/clock_analog_dial.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/dialog_divider_horizontal_light.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/dialog_divider_horizontal_light.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ab_hairline.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ab_hairline.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_disabled_focused_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_disabled_focused_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lockscreen_wakeup_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lockscreen_wakeup_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_alarm_off.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_alarm_off.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_add.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_menu_add.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_focused_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_focused_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_alarm_pressed.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_alarm_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lapalternate.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lapalternate.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_strip_music.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_strip_music.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_strip_trans_right_pressed.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_strip_trans_right_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/dialog.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/dialog.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_add_alarm.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_add_alarm.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_round_brightness.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_round_brightness.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_share_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_share_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_brightness.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_brightness.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_pressed_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_pressed_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/stat_notify_alarm.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/stat_notify_alarm.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_in_call_round_selected.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_in_call_round_selected.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_location.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notify_reset.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_notify_reset.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_strip_alarm.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_strip_alarm.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_clock_face.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_menu_clock_face.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_disabled_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_disabled_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_pressed_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_pressed_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lock_idle_alarm_saver.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lock_idle_alarm_saver.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_reset_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_reset_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_backspace_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_backspace_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/fastscroll_thumb_pressed_holo.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/fastscroll_thumb_pressed_holo.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_disabled_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_disabled_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/toggle_underline_normal.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/toggle_underline_normal.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_x_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_x_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_strip_desk_clock.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_strip_desk_clock.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_plusone_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_plusone_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_strip_home.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_strip_home.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_clock_minute.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/appwidget_clock_minute.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_alarm_on.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_alarm_on.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_stop_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_stop_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_alarm_normal.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_alarm_normal.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_focused_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_focused_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_clock_strip_gallery.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_clock_strip_gallery.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_ringtone.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_ringtone.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tab_clock_activated.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_tab_clock_activated.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tab_timer.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_tab_timer.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_alarm_small.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_alarm_small.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_delete_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_delete_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/fastscroll_thumb_default_holo.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/fastscroll_thumb_default_holo.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_in_call_round_pressed.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_in_call_round_pressed.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_desk_clock.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_menu_desk_clock.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_in_call_round_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_in_call_round_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lock_idle_alarm_saver_dim.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lock_idle_alarm_saver_dim.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_add.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/notification_bg_normal_pressed.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_plusone_disabled.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_plusone_disabled.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tab_stopwatch.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_tab_stopwatch.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tab_timer_activated.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_tab_timer_activated.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_diamond_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_diamond_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_on_holo_light_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_on_holo_light_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/stat_notify_timer.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/stat_notify_timer.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tab_stopwatch_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_tab_stopwatch_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_in_call_round_disable.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_in_call_round_disable.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_strip_trans_middle_pressed.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_strip_trans_middle_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_check_off_holo_dark_red.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_check_off_holo_dark_red.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_strip_trans_left_pressed.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_strip_trans_left_pressed.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_expand_down.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_expand_down.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lockscreen_snooze_activated.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lockscreen_snooze_activated.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tab_clock_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_tab_clock_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_clock_second.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/appwidget_clock_second.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_strip_trans_middle_normal.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_strip_trans_middle_normal.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_expand_up.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_expand_up.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/divider_vertical_dark.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/divider_vertical_dark.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_revert_holo_dark.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_menu_revert_holo_dark.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_lockscreen_glowdot.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_lockscreen_glowdot.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/notification_bg_normal.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tab_clock.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_tab_clock.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_in_call_round_disable_focused.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_in_call_round_disable_focused.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_label_small.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_label_small.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_indicator_off.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_indicator_off.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_dialog_time.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_dialog_time.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_start_normal.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/ic_start_normal.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/appwidget_clock_hour.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/appwidget_clock_hour.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xhdpi/btn_strip_trans_right_normal.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xhdpi/btn_strip_trans_right_normal.9.png"
+    }
+]

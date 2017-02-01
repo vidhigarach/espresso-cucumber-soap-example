@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/date_picker_dialog.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/layout-sw600dp-v13/date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/alarm_alert_fullscreen.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout-sw600dp/alarm_alert_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/set_alarm.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/layout-sw600dp/set_alarm.xml"
+    }
+]

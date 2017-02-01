@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_221f1150f83cd96e85f86590b56f819b89fbd1cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vidhigarach/Documents/android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_fb78a36093bdcac048b929e60b3be64e33a42568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-21.0.3_e0dc1ce037f72e13727c82263e6f2d1b201a1a2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4c368689f83aa49a082e6cea6491b3b166697525">
+        <dex dex="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/pre-dexed/debug/espresso-cucumber-soap-example-datetimepicker-unspecified_edbd600111e143a41208ea546506789ddff3754c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_9a0afc223b7f3a01d569fb72da2e41e6eb34473f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_ecd6b4e7bd3f916f8e5245eac45860d7f63ca474.jar" />
+    </item>
+
+</items>
