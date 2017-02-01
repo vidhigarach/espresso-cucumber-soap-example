@@ -10,7 +10,7 @@
 # androidTestCompile 'info.cukes:cucumber-android:1.2.0@jar'
 # androidTestCompile 'info.cukes:cucumber-picocontainer:1.2.0'
 
-For running the project JUnit runner should be added, for that in defaultConfig add :
-# defaultConfig {
-#      testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-# }
+## For running the project JUnit runner should be added, for that in defaultConfig add :
+ defaultConfig {
+      testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+ }
