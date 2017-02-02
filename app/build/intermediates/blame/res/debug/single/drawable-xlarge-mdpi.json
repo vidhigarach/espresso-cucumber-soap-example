@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi/dialog.9.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/src/main/res/drawable-xlarge-mdpi/dialog.9.png"
+    },
+    {
         "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-xlarge-mdpi/dialog.9.png",
         "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-xlarge-mdpi/dialog.9.png"
     }

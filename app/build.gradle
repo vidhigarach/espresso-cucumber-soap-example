@@ -10,6 +10,13 @@ android {
         multiDexEnabled true
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+
+    sourceSets {
+        androidTest {
+            assets.srcDirs = ['src/androidTest/assets']
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled false

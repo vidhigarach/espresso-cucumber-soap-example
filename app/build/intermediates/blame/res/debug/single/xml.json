@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/src/main/res/xml/settings.xml"
+    },
+    {
         "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/xml/settings.xml",
         "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/xml/settings.xml"
     },
@@ -12,8 +16,24 @@
         "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/xml/dream_settings.xml"
     },
     {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/xml/dream_info.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/src/main/res/xml/dream_info.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/xml/dream_settings.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/src/main/res/xml/dream_settings.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/xml/analog_appwidget.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/src/main/res/xml/analog_appwidget.xml"
+    },
+    {
         "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/xml/analog_appwidget.xml",
         "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/xml/analog_appwidget.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/xml/digital_appwidget.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/src/main/res/xml/digital_appwidget.xml"
     },
     {
         "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/xml/digital_appwidget.xml",

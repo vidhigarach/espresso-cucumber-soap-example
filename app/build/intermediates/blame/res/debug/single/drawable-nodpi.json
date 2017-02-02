@@ -4,6 +4,14 @@
         "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-nodpi/appwidget_digital_clock_preview.png"
     },
     {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/drawable-nodpi/appwidget_analog_clock_preview.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/src/main/res/drawable-nodpi/appwidget_analog_clock_preview.png"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/drawable-nodpi/appwidget_digital_clock_preview.png",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/src/main/res/drawable-nodpi/appwidget_digital_clock_preview.png"
+    },
+    {
         "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/drawable-nodpi/appwidget_analog_clock_preview.png",
         "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/src/main/res/drawable-nodpi/appwidget_analog_clock_preview.png"
     }

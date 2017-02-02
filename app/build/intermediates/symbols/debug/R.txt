@@ -733,7 +733,7 @@ int drawable toggle_underline_normal 0x7f0200c2
 int id action_button 0x7f100003
 int id action_icon 0x7f100005
 int id action_text 0x7f100006
-int id alarm_add_alarm 0x7f100011
+int id alarm_add_button 0x7f100011
 int id alarm_clock_left 0x7f10000a
 int id alarm_delete 0x7f100051
 int id alarm_footer_filler 0x7f100025

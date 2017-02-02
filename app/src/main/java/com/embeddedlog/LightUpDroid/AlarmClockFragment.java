@@ -177,7 +177,7 @@ public class AlarmClockFragment extends DeskClockFragment implements
         mExpandInterpolator = new DecelerateInterpolator(EXPAND_DECELERATION);
         mCollapseInterpolator = new DecelerateInterpolator(COLLAPSE_DECELERATION);
 
-        mAddAlarmButton = (ImageButton) v.findViewById(R.id.alarm_add_alarm);
+        mAddAlarmButton = (ImageButton) v.findViewById(R.id.alarm_add_button);
         mAddAlarmButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {

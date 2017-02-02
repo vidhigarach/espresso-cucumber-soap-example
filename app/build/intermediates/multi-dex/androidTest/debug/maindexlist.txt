@@ -40,8 +40,8 @@ cucumber/api/java/ru/А.class
 com/android/support/test/deps/guava/collect/ImmutableCollection.class
 org/junit/experimental/theories/ParameterSupplier.class
 cucumber/api/java/ko/그러면.class
-gherkin/deps/com/google/gson/reflect/TypeToken.class
 com/android/support/test/deps/guava/cache/LocalCache$LocalManualCache.class
+gherkin/deps/com/google/gson/reflect/TypeToken.class
 android/support/test/filters/RequiresDevice.class
 cucumber/api/java/pl/Jeżeli.class
 cucumber/api/java/ru/То.class
@@ -258,8 +258,8 @@ org/junit/internal/matchers/IsCollectionContaining.class
 cucumber/api/java/de/Gegebensei.class
 android/support/test/internal/runner/junit3/AndroidTestSuite.class
 cucumber/api/java/ru/Пусть.class
-org/hamcrest/text/IsEqualIgnoringWhiteSpace.class
 com/android/support/test/deps/guava/base/Functions$IdentityFunction.class
+org/hamcrest/text/IsEqualIgnoringWhiteSpace.class
 org/junit/After.class
 com/android/support/test/deps/guava/annotations/VisibleForTesting.class
 org/junit/runner/notification/Failure.class
@@ -436,6 +436,7 @@ cucumber/api/java/is/Ef.class
 cucumber/api/java/ru/Если.class
 cucumber/api/java/is/Þegar.class
 cucumber/api/java/zh_cn/假定.class
+com/embeddedlog/LightUpDroid/Instrumentation.class
 com/android/support/test/deps/guava/collect/ImmutableRangeMap.class
 org/hamcrest/text/StringContains.class
 cucumber/api/java/el/Τότε.class
@@ -767,6 +768,7 @@ cucumber/api/java/fr/Et.class
 org/hamcrest/beans/HasPropertyWithValue.class
 cucumber/api/java/ko/만일.class
 javax/annotation/meta/TypeQualifierDefault.class
+com/embeddedlog/LightUpDroid/ActivitySteps.class
 org/junit/runners/model/RunnerScheduler.class
 android/support/test/espresso/base/RootViewPicker.class
 org/junit/runners/ParentRunner$1.class

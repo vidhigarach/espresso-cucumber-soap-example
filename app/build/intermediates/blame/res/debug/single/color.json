@@ -8,11 +8,27 @@
         "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/color/done_text_color_dark.xml"
     },
     {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/color/date_picker_year_selector.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/exploded-aar/espresso-cucumber-spoon-example/datetimepicker/unspecified/res/color/date_picker_year_selector.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/color/date_picker_selector.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/exploded-aar/espresso-cucumber-spoon-example/datetimepicker/unspecified/res/color/date_picker_selector.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/color/done_text_color.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/exploded-aar/espresso-cucumber-spoon-example/datetimepicker/unspecified/res/color/done_text_color.xml"
+    },
+    {
         "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/color/date_picker_year_selector.xml",
         "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/color/date_picker_year_selector.xml"
     },
     {
         "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/res/merged/debug/color/date_picker_selector.xml",
         "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/exploded-aar/espresso-cucumber-soap-example/datetimepicker/unspecified/res/color/date_picker_selector.xml"
+    },
+    {
+        "merged": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/res/merged/debug/color/done_text_color_dark.xml",
+        "source": "/Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/exploded-aar/espresso-cucumber-spoon-example/datetimepicker/unspecified/res/color/done_text_color_dark.xml"
     }
 ]

@@ -1,5 +1,5 @@
--injars /Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
--outjars /Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/multi-dex/debug/componentClasses.jar
+-injars /Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
+-outjars /Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/multi-dex/debug/componentClasses.jar
 
 -libraryjars /Users/vidhigarach/Documents/android/sdk/build-tools/21.1.2/lib/shrinkedAndroid.jar
 
@@ -10,7 +10,7 @@
 -dontpreverify
 -dontnote **
 -dontwarn **
--printconfiguration /Users/vidhigarach/Desktop/demo/espresso-cucumber-soap-example/app/build/intermediates/multi-dex/debug/components.flags
+-printconfiguration /Users/vidhigarach/Desktop/demo/espresso-cucumber-spoon-example/app/build/intermediates/multi-dex/debug/components.flags
 
 
 -keep class com.embeddedlog.LightUpDroid.provider.ClockProvider {

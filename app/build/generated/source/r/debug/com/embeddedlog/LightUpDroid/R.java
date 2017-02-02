@@ -875,7 +875,7 @@ containing a value of this type.
         public static final int action_button=0x7f100003;
         public static final int action_icon=0x7f100005;
         public static final int action_text=0x7f100006;
-        public static final int alarm_add_alarm=0x7f100011;
+        public static final int alarm_add_button=0x7f100011;
         public static final int alarm_clock_left=0x7f10000a;
         public static final int alarm_delete=0x7f100051;
         public static final int alarm_footer_filler=0x7f100025;
@@ -1366,15 +1366,7 @@ containing a value of this type.
         public static final int AlarmAlertFullScreenTheme=0x7f0e0000;
         public static final int AlarmAlertFullScreenWindowTitle=0x7f0e000c;
         public static final int AlarmClockTheme=0x7f0e0004;
-        /** 
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
-         */
         public static final int AppBaseTheme=0x7f0e000d;
-        /**  All customizations that are NOT specific to a particular API-level can go here. 
-         */
         public static final int AppTheme=0x7f0e000e;
         public static final int ButtonStripLeft=0x7f0e000f;
         public static final int ButtonStripMiddle=0x7f0e0010;
