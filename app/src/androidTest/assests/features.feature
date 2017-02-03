@@ -13,5 +13,5 @@ Feature: Test
     Given user is on the home page and Set the Alarm
     Then user can click on the Alarm symbol
     And user clicks on plus sign
-    Then user sets time to 6:15 AM
+    Then user sets alarm
     Then user clicks on Done
